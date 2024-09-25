@@ -40,21 +40,6 @@
 
 ---
 
-## 🛠️ Proyectos Recientes
-
-### 🔹 Desarrollo de Aplicaciones Web
-- **Descripción:** Desarrollo de aplicaciones web interactivas utilizando **HTML**, **CSS**, **JavaScript**, y **frameworks** como **Tailwind CSS** y **Bootstrap**.
-- **Resultado:** Implementación de interfaces modernas y optimizadas para dispositivos móviles.
-
-### 🔹 APIs con FastAPI y Spring Boot
-- **Descripción:** Construcción de APIs robustas y escalables utilizando **FastAPI** (Python) y **Spring Boot** (Java).
-- **Resultado:** Creación de endpoints seguros, con autenticación y manejo de bases de datos SQL.
-
-### 🔹 Explorando Kotlin y Desarrollo Android
-- **Descripción:** Desarrollo de aplicaciones móviles en **Kotlin**, enfocándome en la creación de interfaces intuitivas y eficientes para dispositivos Android.
-- **Resultado:** Aplicaciones funcionales que aprovechan las mejores prácticas de desarrollo móvil.
-
----
 
 ## 📚 Actualmente aprendiendo...
 
@@ -76,4 +61,11 @@
 
 - A corto plazo: Contribuir activamente en proyectos de código abierto y perfeccionar mis habilidades en **desarrollo móvil** y **backend**.
 - A largo plazo: Convertirme en un **ingeniero full-stack** con experiencia en diseño de soluciones escalables y eficientes, y en la integración de tecnologías emergentes.
+
+- ## 📊 GitHub Stats
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=JonathanIbarraCanales&show_icons=true&theme=dark&count_private=true)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JonathanIbarraCanales&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+
 
