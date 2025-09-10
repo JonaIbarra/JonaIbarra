@@ -7,7 +7,7 @@
 ## 🚀 Sobre mí
 
 - 🎓 **Formación Académica:**
-  - Actualmente soy estudiante de la **Ingeniería en Desarrollo y Gestión de Software** en la **Universidad Tecnológica de Xicotepec de Juárez**.
+  - **Ingeniería en Desarrollo y Gestión de Software** egresado de la **Universidad Tecnológica de Xicotepec de Juárez**.
   - Grado de **Técnico Superior Universitario en Tecnologías de la Información** con especialización en **Desarrollo Multiplataforma**.
 
 - 💻 **Competencias Técnicas:**
